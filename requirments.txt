@@ -1,0 +1,4 @@
+github-changes==1.0.5
+invoke==2.2.0
+pytest==8.2.2
+python-hcl2==4.3.4
